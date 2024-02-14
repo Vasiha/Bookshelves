@@ -1,0 +1,49 @@
+15:23:23.669 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+15:23:25.844 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+15:23:26.391 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully
+15:23:26.391 [main] INFO  testCases.TC_001_search_bookshelves - Started Applying filters
+15:23:53.141 [main] INFO  testCases.TC_001_search_bookshelves - Applied the filters and captured the screenshots
+15:23:53.430 [main] INFO  testCases.TC_001_search_bookshelves - Top three products selected
+15:38:00.354 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001**************************
+15:38:03.666 [main] INFO  testCases.TC_001_search_bookshelves - Searched for bookshelves and captured the screenshot successfully
+15:38:10.693 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+15:38:12.859 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+15:38:13.423 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully
+15:38:13.423 [main] INFO  testCases.TC_001_search_bookshelves - Started Applying filters
+15:38:30.971 [main] INFO  testCases.TC_001_search_bookshelves - Applied the filters and captured the screenshots
+15:38:31.297 [main] INFO  testCases.TC_001_search_bookshelves - Top three products selected
+15:41:51.773 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001**************************
+15:41:54.749 [main] INFO  testCases.TC_001_search_bookshelves - Searched for bookshelves and captured the screenshot successfully
+15:42:02.079 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+15:42:04.262 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+15:42:04.734 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully
+15:42:04.735 [main] INFO  testCases.TC_001_search_bookshelves - Started Applying filters
+15:42:21.695 [main] INFO  testCases.TC_001_search_bookshelves - Applied the filters and captured the screenshots
+15:42:22.033 [main] INFO  testCases.TC_001_search_bookshelves - Top three products selected
+15:42:30.771 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+15:42:35.509 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+15:42:35.690 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+15:42:58.846 [main] INFO  testCases.TC_003_Giftcards - ******************8Starting TC_003************************* 
+15:43:01.814 [main] INFO  testCases.TC_003_Giftcards - Clicked on gift cards
+15:43:03.866 [main] INFO  testCases.TC_003_Giftcards - Scrolled down for gift card selection
+15:43:07.288 [main] INFO  testCases.TC_003_Giftcards - Hovered on birthday and clicked choose this
+15:43:07.890 [main] INFO  testCases.TC_003_Giftcards - Amount is selected
+15:43:11.380 [main] INFO  testCases.TC_003_Giftcards - Month is selected
+15:43:15.982 [main] INFO  testCases.TC_003_Giftcards - Invalid recipient details is passed 
+15:43:17.212 [main] INFO  testCases.TC_003_Giftcards - from details is passed 
+15:43:19.640 [main] INFO  testCases.TC_003_Giftcards - confirm button is clicked and the error message is captured
+15:43:24.540 [main] INFO  testCases.TC_003_Giftcards - valid recipient details is set
+15:43:26.765 [main] INFO  testCases.TC_003_Giftcards - Screenshot taken
+15:43:30.116 [main] INFO  testCases.TC_003_Giftcards - provided all the valid details and clicked on the confirm button
+16:13:19.588 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001**************************
+16:13:22.417 [main] INFO  testCases.TC_001_search_bookshelves - Searched for bookshelves and captured the screenshot successfully
+16:13:29.989 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+16:13:32.102 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+16:13:32.428 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully
+16:13:32.429 [main] INFO  testCases.TC_001_search_bookshelves - Started Applying filters
+16:15:02.638 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001**************************
+16:18:44.766 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001**************************
+16:18:47.574 [main] INFO  testCases.TC_001_search_bookshelves - Searched for bookshelves and captured the screenshot successfully
+16:18:55.313 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+16:18:57.503 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+16:18:58.056 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully

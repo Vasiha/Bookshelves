@@ -1,0 +1,26 @@
+16:18:58.056 [main] INFO  testCases.TC_001_search_bookshelves - Started Applying filters
+16:19:23.443 [main] INFO  testCases.TC_001_search_bookshelves - Applied the filters and captured the screenshots
+16:19:23.774 [main] INFO  testCases.TC_001_search_bookshelves - Top three products selected
+16:19:44.688 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001**************************
+16:19:47.891 [main] INFO  testCases.TC_001_search_bookshelves - Searched for bookshelves and captured the screenshot successfully
+16:20:04.577 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+16:20:06.798 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+16:20:07.353 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully
+16:20:07.353 [main] INFO  testCases.TC_001_search_bookshelves - Started Applying filters
+16:20:24.462 [main] INFO  testCases.TC_001_search_bookshelves - Applied the filters and captured the screenshots
+16:20:24.761 [main] INFO  testCases.TC_001_search_bookshelves - Top three products selected
+16:20:32.561 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+16:20:37.178 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+16:20:37.455 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+16:20:57.441 [main] INFO  testCases.TC_003_Giftcards - ******************8Starting TC_003************************* 
+16:21:04.058 [main] INFO  testCases.TC_003_Giftcards - Clicked on gift cards
+16:21:06.136 [main] INFO  testCases.TC_003_Giftcards - Scrolled down for gift card selection
+16:21:09.491 [main] INFO  testCases.TC_003_Giftcards - Hovered on birthday and clicked choose this
+16:21:10.161 [main] INFO  testCases.TC_003_Giftcards - Amount is selected
+16:21:13.597 [main] INFO  testCases.TC_003_Giftcards - Month is selected
+16:21:18.226 [main] INFO  testCases.TC_003_Giftcards - Invalid recipient details is passed 
+16:21:19.436 [main] INFO  testCases.TC_003_Giftcards - from details is passed 
+16:21:21.793 [main] INFO  testCases.TC_003_Giftcards - confirm button is clicked and the error message is captured
+16:21:26.724 [main] INFO  testCases.TC_003_Giftcards - valid recipient details is set
+16:21:28.934 [main] INFO  testCases.TC_003_Giftcards - Screenshot taken
+16:21:32.367 [main] INFO  testCases.TC_003_Giftcards - provided all the valid details and clicked on the confirm button

@@ -1,0 +1,48 @@
+19:04:38.495 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001_search_booksheloves
+19:04:43.210 [main] INFO  testCases.TC_001_search_bookshelves - Searched for bookshelves and captured the screenshot successfully
+19:04:51.374 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+19:04:53.644 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+19:04:54.530 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully
+19:04:54.531 [main] INFO  testCases.TC_001_search_bookshelves - Aplying filters
+19:05:12.642 [main] INFO  testCases.TC_001_search_bookshelves - Applied the filters and captured the screenshots
+19:05:13.100 [main] INFO  testCases.TC_001_search_bookshelves - Top three products selected
+19:05:25.135 [main] INFO  testCases.TC_002_Living_Submenu - Starting TC_002_Living_Submenu
+19:05:31.291 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+19:05:31.857 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are printed in the console
+19:05:43.970 [main] INFO  testCases.TC_003_Giftcards - ******************8Starting TC_003_Giftcards******************** 
+19:05:49.797 [main] INFO  testCases.TC_003_Giftcards - Clicked on gift cards
+19:05:51.909 [main] INFO  testCases.TC_003_Giftcards - Scrolled down to select birthday
+19:05:55.608 [main] INFO  testCases.TC_003_Giftcards - Hovered on birthday and clicked choose this
+19:05:56.591 [main] INFO  testCases.TC_003_Giftcards - Amount is selected
+19:06:00.260 [main] INFO  testCases.TC_003_Giftcards - Month is selected
+19:06:24.682 [main] INFO  testCases.TC_003_Giftcards - confirm button is clicked and the error message is captured
+19:06:30.789 [main] INFO  testCases.TC_003_Giftcards - valid recepient details is set
+19:06:33.061 [main] INFO  testCases.TC_003_Giftcards - Screenshot taken
+19:06:37.724 [main] INFO  testCases.TC_003_Giftcards - provided all the valid details and clicked on the confirm button
+00:45:14.165 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+00:45:20.253 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+00:45:20.610 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+00:46:31.310 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+00:46:37.443 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+00:46:37.854 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+10:37:57.062 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+10:38:03.279 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+10:38:03.722 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+11:04:41.888 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+11:04:48.195 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+11:04:48.661 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+11:04:30.677 [main] INFO  testCases.TC_001_search_bookshelves - ***********Starting TC_001**************************
+11:04:34.731 [main] INFO  testCases.TC_001_search_bookshelves - Searched for bookshelves and captured the screenshot successfully
+11:04:42.856 [main] INFO  testCases.TC_001_search_bookshelves - Clicked on the search button
+11:04:45.044 [main] INFO  testCases.TC_001_search_bookshelves - Closed the ad successfully
+11:04:45.972 [main] INFO  testCases.TC_001_search_bookshelves - Captured the search results successfully
+11:04:45.973 [main] INFO  testCases.TC_001_search_bookshelves - Started Applying filters
+11:05:03.725 [main] INFO  testCases.TC_001_search_bookshelves - Applied the filters and captured the screenshots
+11:05:04.155 [main] INFO  testCases.TC_001_search_bookshelves - Top three products selected
+11:05:15.190 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+11:05:20.964 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+11:05:21.392 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+11:05:34.377 [main] INFO  testCases.TC_003_Giftcards - ******************8Starting TC_003************************* 
+11:05:46.934 [main] INFO  testCases.TC_003_Giftcards - Clicked on gift cards
+11:05:49.034 [main] INFO  testCases.TC_003_Giftcards - Scrolled down for gift card selection
+11:05:52.625 [main] INFO  testCases.TC_003_Giftcards - Hovered on birthday and clicked choose this

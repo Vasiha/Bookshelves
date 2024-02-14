@@ -1,0 +1,51 @@
+11:05:53.422 [main] INFO  testCases.TC_003_Giftcards - Amount is selected
+11:05:56.952 [main] INFO  testCases.TC_003_Giftcards - Month is selected
+11:06:04.599 [main] INFO  testCases.TC_003_Giftcards - Invalid recipient details is passed 
+11:06:07.125 [main] INFO  testCases.TC_003_Giftcards - from details is passed 
+11:06:09.784 [main] INFO  testCases.TC_003_Giftcards - confirm button is clicked and the error message is captured
+11:06:15.218 [main] INFO  testCases.TC_003_Giftcards - valid recipient details is set
+11:06:17.439 [main] INFO  testCases.TC_003_Giftcards - Screenshot taken
+11:06:21.213 [main] INFO  testCases.TC_003_Giftcards - provided all the valid details and clicked on the confirm button
+11:38:01.114 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+11:40:02.602 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+11:40:03.261 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+11:40:09.821 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+11:40:10.766 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+11:41:18.876 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+11:41:25.057 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+11:41:25.510 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+10:43:53.319 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+10:43:57.873 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+10:43:58.078 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+10:44:45.959 [main] INFO  testCases.TC_002_Living_Submenu - ***********************Starting TC_002*******************************
+10:44:50.564 [main] INFO  testCases.TC_002_Living_Submenu -  Hovered on living and captured a screenshot
+10:44:50.732 [main] INFO  testCases.TC_002_Living_Submenu - Submenu items are retrieved printed in the console
+10:45:15.919 [main] INFO  testCases.TC_003_Giftcards - ******************8Starting TC_003************************* 
+10:45:18.591 [main] INFO  testCases.TC_003_Giftcards - Clicked on gift cards
+10:45:20.630 [main] INFO  testCases.TC_003_Giftcards - Scrolled down for gift card selection
+10:45:23.873 [main] INFO  testCases.TC_003_Giftcards - Hovered on birthday and clicked choose this
+10:45:24.253 [main] INFO  testCases.TC_003_Giftcards - Amount is selected
+10:45:27.519 [main] INFO  testCases.TC_003_Giftcards - Month is selected
+10:45:31.477 [main] INFO  testCases.TC_003_Giftcards - Invalid recipient details is passed 
+10:45:32.184 [main] INFO  testCases.TC_003_Giftcards - from details is passed 
+10:45:34.543 [main] INFO  testCases.TC_003_Giftcards - confirm button is clicked and the error message is captured
+10:45:39.315 [main] INFO  testCases.TC_003_Giftcards - valid recipient details is set
+10:45:41.466 [main] INFO  testCases.TC_003_Giftcards - Screenshot taken
+10:45:44.302 [main] INFO  testCases.TC_003_Giftcards - provided all the valid details and clicked on the confirm button
+10:49:48.929 [main] INFO  testCases.TC_003_Giftcards - ******************8Starting TC_003************************* 
+10:49:51.815 [main] INFO  testCases.TC_003_Giftcards - Clicked on gift cards
+10:49:53.853 [main] INFO  testCases.TC_003_Giftcards - Scrolled down for gift card selection
+10:49:57.145 [main] INFO  testCases.TC_003_Giftcards - Hovered on birthday and clicked choose this
+10:49:57.545 [main] INFO  testCases.TC_003_Giftcards - Amount is selected
+10:50:00.775 [main] INFO  testCases.TC_003_Giftcards - Month is selected
+10:50:04.515 [main] INFO  testCases.TC_003_Giftcards - Invalid recipient details is passed 
+10:50:05.124 [main] INFO  testCases.TC_003_Giftcards - from details is passed 
+10:50:07.353 [main] INFO  testCases.TC_003_Giftcards - confirm button is clicked and the error message is captured
+10:50:11.911 [main] INFO  testCases.TC_003_Giftcards - valid recipient details is set
+10:50:14.048 [main] INFO  testCases.TC_003_Giftcards - Screenshot taken
+10:50:16.843 [main] INFO  testCases.TC_003_Giftcards - provided all the valid details and clicked on the confirm button
+10:57:44.776 [main] INFO  testCases.TC_003_Giftcards - ******************8Starting TC_003************************* 
+10:57:46.740 [main] INFO  testCases.TC_003_Giftcards - Clicked on gift cards
+10:57:48.798 [main] INFO  testCases.TC_003_Giftcards - Scrolled down for gift card selection
+10:57:52.123 [main] INFO  testCases.TC_003_Giftcards - Hovered on birthday and clicked choose this
+10:57:52.663 [main] INFO  testCases.TC_003_Giftcards - Amount is selected
